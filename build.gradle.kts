@@ -15,7 +15,7 @@ repositories {
 dependencies {
     testImplementation(kotlin("test"))
     api("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.11.0")
-    api("org.slf4j:slf4j-api:2.0.17")
+    api("org.slf4j:slf4j-api:2.0.18")
 }
 
 kotlin {
